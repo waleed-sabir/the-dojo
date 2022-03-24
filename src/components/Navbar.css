@@ -1,8 +1,8 @@
 .navbar {
   width: 100%;
-  padding: 30px 0;
+  padding: 3rem 0;
   box-sizing: border-box;
-  margin-bottom: 80px;
+  margin-bottom: 6rem;
 }
 .navbar ul {
   display: flex;
@@ -19,13 +19,13 @@
   margin-right: auto;
 }
 .navbar .logo img {
-  margin-right: 10px;
+  margin-right: 1rem;
   filter: invert(25%);
-  width: 36px;
-  margin-top: -8px;
+  width: 3.6rem;
+  margin-top: -0.8rem;
 }
 .navbar a {
   color: #333;
   text-decoration: none;
-  margin-right: 20px;
+  margin-right: 2rem;
 }
