@@ -47,8 +47,8 @@ export default function Login() {
       <p className="login-note">
         <strong>NOTE:</strong> For testing purpose, one can{" "}
         <strong>LOGIN</strong> with the given credentials i.e. Email{" "}
-        <strong>'mario@netninja.dev'</strong> and password{" "}
-        <strong>'mario123'</strong>.
+        <strong>'zangief@weteam.co'</strong> and password{" "}
+        <strong>'Zangief12345'</strong>.
       </p>
     </>
   );

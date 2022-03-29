@@ -4,7 +4,7 @@ import { useAuthContext } from "../hooks/useAuthContext";
 
 // styles & images
 import "./Navbar.css";
-import Temple from "../assets/temple.svg";
+import Team from "../assets/team.svg";
 
 export default function Navbar() {
   const { logout, isPending } = useLogout();
@@ -16,8 +16,8 @@ export default function Navbar() {
         {!user && (
           <>
             <li className="logo">
-              <img src={Temple} alt="dojo logo" />
-              <span>The Dojo</span>
+              <img src={Team} alt="Team logo" />
+              <span>WeTeam</span>
             </li>
 
             <li>

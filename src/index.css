@@ -22,11 +22,11 @@ html {
 
 @media (max-width: 768px) {
   html {
-    font-size: 45%;
+    font-size: 46%;
   }
 }
 
-@media (max-width: 425px) {
+/* @media (max-width: 425px) {
   html {
     font-size: 26%;
   }
@@ -42,7 +42,7 @@ html {
   html {
     font-size: 18%;
   }
-}
+} */
 
 body {
   font-family: Ubuntu, sans-serif;
